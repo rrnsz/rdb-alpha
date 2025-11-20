@@ -219,3 +219,5 @@ mv CodeRoad.svg client/assets/icons
 clear
 mv freeCodeCamp.svg client/assets/icons
 find
+clear
+mkdir client/assets/fonts
