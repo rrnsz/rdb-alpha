@@ -167,3 +167,5 @@ clear
 mv index.js client/src
 mv styles.css client/src
 find
+clear
+find client
